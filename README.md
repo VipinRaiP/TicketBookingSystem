@@ -2,4 +2,4 @@
 
 IIITB - Term1
 
-Software Systems minipoject
+Software Systems miniproject
